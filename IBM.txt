@@ -1,0 +1,4 @@
+IBM CLOUD PAK FOR DATA v3.0
+Introduction
+Cloud pak for data is a cloud, with in-built governance based storage where the data is stored in this platform and it is easy to govern it, analyze it , transfer it and do all useful needs on the data. This can be done anywhere from remote places where moving of data is not required.\
+IBM CLOUD PAK for DATA is an cloud-native storage where the data is governed, analyzed and transferred from Cloud-Native to local and vice versa.
